@@ -13,6 +13,8 @@
 
 Btrfs是一个基于Copy-on-Write B-tree的文件系统。
 
+COW的写放大问题
+
 其巧妙之处在于：
 
 1. 原子操作的更新
