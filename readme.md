@@ -6,8 +6,8 @@
 
 >### 机器学习
 
-- [前端运维: 从 0 开始 Prometheus + Grafana 业务性能指标监控](https://github.com/SunshowerC/blog/issues/21)
+- [使用Kubeflow training-operator在k8s上进行分布式CPU训练](https://github.com/77yu77/blog/blob/main/md/training_operator.md)
 
 >### 分布式系统学习
 
-- [前端运维: 从 0 开始 Prometheus + Grafana 业务性能指标监控](https://github.com/SunshowerC/blog/issues/21)
+- [分布式一致性学习](https://github.com/77yu77/blog/blob/main/md/distributed_consistency.md)
