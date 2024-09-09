@@ -7,7 +7,7 @@
 >### 机器学习
 
 - [使用Kubeflow training-operator在k8s上进行分布式CPU训练](https://github.com/77yu77/blog/blob/main/md/training_operator.md)
-- [loss 函数和优化器选择](https://github.com/77yu77/blog/blob/main/md/loss function and optimizer.md)
+- [loss 函数和优化器选择](https://github.com/77yu77/blog/blob/main/md/loss%20function%20and%20optimizer.md)
 
 > ### k8s学习与开发
 
